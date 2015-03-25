@@ -1,0 +1,19 @@
+{
+  "name": "validators-set",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rmdm/validators-set",
+  "authors": [
+    "rmdm"
+  ],
+  "description": "Set of handy validators. Both client&server side.",
+  "main": "lib/index.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "validator",
+    "validators"
+  ],
+  "license": "MIT"
+}
