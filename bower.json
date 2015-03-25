@@ -15,5 +15,6 @@
     "validator",
     "validators"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": ["test", "package.json", ".gitignore"]
 }
